@@ -8,7 +8,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/styles": "^4.9.14",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.20.17",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.34",
     "gatsby-link": "^2.2.25",
     "gatsby-plugin-material-ui": "^2.1.8",
